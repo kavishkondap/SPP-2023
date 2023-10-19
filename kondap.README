@@ -1,0 +1,11 @@
+Kondap Method of Gauss Script, 2023
+
+Running Instructions:
+    Run the kondapOD.py file, and follow the steps in the command line to output orbital elements.
+        First, provide the file path of the input file
+        Second, input the desired form of f&g functions ('three', 'four', or 'closed')
+    The script will run all roots found in the Scalar Equation of Lagrange, and will output orbital elements for each (if converging is successful)
+Additional Files:
+    kondap_baby_od.py
+    kondap_fg_functions.py
+    photometry.py
